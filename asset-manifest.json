@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jinjunoh.github.io/static/css/main.7b7f7676.css",
+    "main.js": "/jinjunoh.github.io/static/js/main.19fbb399.js",
+    "static/media/jinjun2.PNG": "/jinjunoh.github.io/static/media/jinjun2.914f1ceecb2020f979ea.PNG",
+    "static/media/thumb-fullstack-socialmedia-app-react-sanity.png": "/jinjunoh.github.io/static/media/thumb-fullstack-socialmedia-app-react-sanity.44fcc444cec6e5975eda.png",
+    "static/media/thumb-google-map-clone-nextjs-feb22.png": "/jinjunoh.github.io/static/media/thumb-google-map-clone-nextjs-feb22.200845be6c176fdf46e1.png",
+    "static/media/thumb-fooddeliveryapp-reactjs-dec.png": "/jinjunoh.github.io/static/media/thumb-fooddeliveryapp-reactjs-dec.fd65990a923e0e9a8e30.png",
+    "index.html": "/jinjunoh.github.io/index.html",
+    "main.7b7f7676.css.map": "/jinjunoh.github.io/static/css/main.7b7f7676.css.map",
+    "main.19fbb399.js.map": "/jinjunoh.github.io/static/js/main.19fbb399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b7f7676.css",
+    "static/js/main.19fbb399.js"
+  ]
+}
